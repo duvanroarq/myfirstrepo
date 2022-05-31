@@ -1,2 +1,0 @@
-Este es el segundo archivo de texto, ya has aprendido mucho sobre Git.
-"Cada día aprendes algo nuevo"
