@@ -1,0 +1,1 @@
+Este es el segundo archivo de texto, ya has aprendido mucho sobre Git.
