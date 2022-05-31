@@ -1,1 +1,2 @@
-Este es mi primer archivo de texto :D  
+Este es mi primer archivo de texto :D
+También aprendí a hacer un gitignore que permite ignorar ciertos archivos por git.
